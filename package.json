@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this is express project for my contact backend api",
   "main": "server.js",
+"type" : "module", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "pm2 start server.js",
